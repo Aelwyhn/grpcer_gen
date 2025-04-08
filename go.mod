@@ -1,4 +1,4 @@
-module grpcer_gen
+module github.com/Aelwyhn/grpcer_gen
 
 go 1.22.0
 
